@@ -32,7 +32,7 @@ git status
 git add * (파일전체)
 git add filname (파일만 추가)
 
-
+git commit -m 'commit 설명'
 git push -u origin main
 ```
 
